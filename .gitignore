@@ -9,3 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/_notion-like-tables/
+content/Archive/
+content/Meta_Private/

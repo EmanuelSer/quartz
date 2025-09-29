@@ -1,0 +1,15 @@
+---
+title: Sobre Blade Runner
+tags:
+  - Español
+  - Art
+  - Film
+---
+Dentro del mundo del cine es una película muy sonada y aunque nunca la había visto, siempre había tenido la intensión. Tras haberla visto puedo entender el porqué de su fama y su categoría como cine de culto, más allá de la historia sobre la edición de la obra. Es una increíble película, una verdadera experiencia visual. 
+Me interesa mencionar algunos méritos propios de la cinta y con esto me refiero a aquellos no heredados directamente de la ya excelente novela en la que está basada. Por ello, elementos como la estructura de narrativa, el final, la construcción de personajes queda fuera.
+
+El libro no está explicita-mente narrada como una película noir evidentemente; sin embargo es un estilo que le asienta perfectamente a la narrativa. Y la ejecución es algo que hay que aplaudir definitivamente y más que eso es algo de lo que hay que aprender.
+El sabio uso de los colores y la armonía de los complementarios como sustituto del monocromo de blanco y negro eleva la fotografía y hace que la cinta destaque entre tantos futuros distopicos que hay en el cine en estos días. 
+Las actuaciones de los personajes también es un elemento interesante y muy relevante de la película pues a pesar de ciertas acciones exageradas realmente es el cuerpo de los personajes el que habla más que sus palabras.
+Construir un universo sin demasiada narración es un desafío para todos los que pretenden crear una película cuyo entorno es distinto al nuestro. La gente no siempre prestará atención a los detalles que incluyas para crear un mundo creíble pero si esos detalles no están el público sí lo notará. Un ejemplo de esto son los paraguas luminosos. Son un detalle aparentemente innecesario pues no aporta nada a la historia perse. Empero, su aparición nos habla de una sociedad obsesionada, completamente consumida por el consumismo pues los anuncios de neón hoy en día representan un sector de nuestra sociedad dónde lo más importante es llamar la atención para atraer gente a un negocio, una parte de la ciudad en donde cientos de luces de neón compiten por tu atención constantemente y esta competencia ha llegado al punto en que las personas son inmunes a su brillo y es ahora un accesorio que destaca tu posición económica probablemente. 
+Para mi, la fotografía es realmente lo que más destaca de ésta cinta. La creatividad del uso de la luz es simplemente espectacular y me impresiona que algunos recursos usados en su producción no hayan sido recreados infinitamente en todas las películas. Un ejemplo de ésto es el brillo en los ojos de las replicas. Aquel distintivo brillo que colorea la pupila asiendo uso de lo que normalmente es un artificio, un error, conocido como ojos rojos en la fotografía y que jamás había visto en una película, mucho menos como un elemento narrativo. Más los "errores" que acompañan el uso de lentes anamórficos; Blade Runner es un ejemplo de cómo el aspecto técnico de la fotografía puede ser usado a tu favor narrativamente siempre que realmente sepas lo que haces.

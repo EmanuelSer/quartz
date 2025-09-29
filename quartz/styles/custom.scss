@@ -1,3 +1,52 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.script-page {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 2rem 1rem;
+  max-width: 700px;
+  margin: 0 auto;
+
+  // Scene Headings (e.g., INT. ROOM – NIGHT)
+  h2, h3 {
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 2rem;
+  }
+
+  // Character Names
+  .character {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  // Dialogue
+  .dialogue {
+    text-align: center;
+    margin: 0 auto 1.5rem auto;
+    max-width: 500px;
+    white-space: pre-wrap;
+    font-style: normal;
+  }
+
+  // Dialogue descriptions like (O.S.), (shouting), etc.
+  .dialogue-description {
+    text-align: center;
+    font-style: italic;
+    margin: 0.25rem auto 1rem auto;
+    font-size: 0.9rem;
+  }
+
+  // Transitions like "FADE IN", "FADE OUT", "SMASH CUT"
+  .transition {
+    text-align: left;
+    font-weight: bold;
+    margin-top: 3rem;
+    text-transform: uppercase;
+  }
+}
