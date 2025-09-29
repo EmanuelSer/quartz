@@ -4,6 +4,8 @@ tags:
   - English
   - Fiction
 date: 2023-08-15
+cssclasses:
+  - script-page
 ---
 ### EXT. TOKYO PARK - NIGHT
 
