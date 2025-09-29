@@ -35,5 +35,5 @@ ___
 
 
 ___
-Download script here: ![[Oh no 1.pdf]]
+Download script here: ![[Oh no.pdf]]
 

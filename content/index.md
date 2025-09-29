@@ -34,11 +34,15 @@ A place to explore and link ideas from any type of media and all forms of cultur
 
 ### Short Stories
 - [[Leo The Cloud]]
+- [[An Odd Dream]]
+- [[Leurs Histoires]]
+- [[Homemade Croissant Muffin]]
 
 ### Scripts
 - [[El último capitulo]]
 - [[Lovecraft Memory - Adaptation]]
 - [[Oh No!]]
+- [[About The Tenth Child]]
 
 
 ## General Topics

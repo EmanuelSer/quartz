@@ -20,12 +20,12 @@ Vemos a un *SUJETO*, apuñalando repetidas veces a un *CUERPO*. A su alrededor, 
 
 Un *INTERCOMUNICADOR* suena.
 
-<div class="character"> **VOZ EN EL INTERCOMUNICADOR** </div>
-<div class="dialogue-description">(sonido distante)* </div>
+<div class="character"> VOZ EN EL INTERCOMUNICADOR</div>
+<div class="dialogue-description">(sonido distante) </div>
 <div class="dialogue"> ¿Sientes algo?  </div>
 
-<div class="character"> **SUJETO** </div>
-<div class="dialogue-description">*(tono monótono)* </div>
+<div class="character"> SUJETO </div>
+<div class="dialogue-description">(tono monótono) </div>
 <div class="dialogue"> No. </div>
 
 La puerta se abre y entra un *NIÑO*.
@@ -34,8 +34,8 @@ La puerta se abre y entra un *NIÑO*.
 
 No hay cuerpos ni asesino. Un *ESCRITOR* está escribiendo en una computadora.
 
-<div class="character"> **ESCRITOR** </div>
-<div class="dialogue-description">*(frustrado)* </div>
+<div class="character"> ESCRITOR </div>
+<div class="dialogue-description">(frustrado) </div>
 <div class="dialogue">Ya no sé cómo continuarlo...Quizás también tenga que matar al niño. </div>
 
 Observa su pantalla. 
@@ -44,8 +44,8 @@ Observa su pantalla.
 
 El escritor borra las palabras.
 
-<div class="character"> **ESCRITOR** </div>
-<div class="dialogue-description">*(en voz alta)* </div>
+<div class="character"> ESCRITOR </div>
+<div class="dialogue-description">(en voz alta) </div>
 <div class="dialogue"> No, tú eres un robot. No puedes dejarlo libre porque significaría que tienes sentimientos. Tienes que matarlo. </div>
 
 Trata de escribir, pero sus manos están paralizadas. Voltea. No hay nadie tras él. 
