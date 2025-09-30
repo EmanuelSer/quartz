@@ -20,8 +20,8 @@ That night he went to bed with one wish in mind, and as he fell asleep he began 
 
 He floated on the breeze, higher and higher, until he was among the stars. He explored the solar system and beyond, learning all there was to know about the universe.
 
-Eventually he tired of his travels and decided to return home. But when he tried to change back into a human, he found that he couldn't. He was a cloud forever.
+Eventually he tired of his travels and decided to return home. But when he tried to change back into a human, he found that he couldn't. He didn't want to be a cloud forever!
 
-Just then his mom walked into the room and woke him up. It was just a dream!
+But just then his mom walked into the room and woke him up. It was just a dream!
 
-And from that day on he never wished to be a could anymore. He was content being a human and living with his family but he would always remember his time as a cloud and all the adventures he had.
+And from that day on he never wished to be a cloud anymore. He was content being a human and living with his family, but he would always remember his time as a cloud and all the adventures he had.
