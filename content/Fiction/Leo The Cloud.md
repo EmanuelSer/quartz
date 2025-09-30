@@ -5,7 +5,6 @@ tags:
   - Shortstory
 title: Leo The Cloud
 ---
-# Leo The Cloud 
 # Illustrated Book Idea
 
 Leo was only 5 years old when he decided he no longer wanted to be a human, instead he wanted to become a cloud to explore the world.
