@@ -39,6 +39,7 @@ A place to explore and dump ideas from any type of media and all forms of cultur
 - [[Homemade Croissant Muffin]]
 - [[El Ogro De Los Sueños]]
 - [[Los Días de Escuela]]
+- [[The Reunion]]
 
 ### Scripts
 - [[El último capitulo]]
@@ -55,3 +56,4 @@ A place to explore and dump ideas from any type of media and all forms of cultur
 
 ## Additional Notebooks
 - [[Project First Born]]
+- #Ideas 

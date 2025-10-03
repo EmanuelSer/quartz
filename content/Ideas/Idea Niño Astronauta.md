@@ -6,8 +6,6 @@ tags:
 title: Idea - Niño Astronauta
 date: 2024-01-01
 ---
-# Idea | Niño Astronauta
-
 Había una vez una casa a la orilla de un enorme sembradío de trigo. Hectáreas y hectáreas de trigo que se perdían en el horizonte junto con el sol. Aquella casa era realmente pequeña en comparación. Su fachada no estaba terminada por lo que los colores grises de la pared contrastaban con el dorado paisaje del trigo.
 Dentro de ésta casa había dos cosas que se escuchaban regularmente. Una eran los gritos de las avivadas discusiones que tenía la pareja que vivía ahí, por otro lado, el sonido de los vídeo-juegos del pequeño de la casa. Con tan sólo 6 años ya era capaz de vencer a casi cualquiera que lo enfrentara incluso en juegos online. 
 Su juego preferido era "El cielo de nadie" un interesante juego de universo abierto que se desarrollaba en el espacio y le permitía descubrir una innumerable cantidad de planetas cada uno especial, cada uno con sus propias especies y minerales.

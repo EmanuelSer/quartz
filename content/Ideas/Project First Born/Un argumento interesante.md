@@ -3,6 +3,7 @@ tags:
   - "#Español"
   - Ideas
 title: Project First Born - Un argumento interesante
+date: 2020-01-01
 ---
 # Un argumento interesante
 

@@ -6,7 +6,7 @@ tags:
 title: CGI Documentary
 date: 2023-01-01
 ---
-# CGI Documentary
+
 
 In the middle of a gameplay a player realizes the NPCs have their own storylines and decides to follow one. What comes next is a documentary of their virtual life.
 

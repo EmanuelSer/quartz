@@ -3,6 +3,7 @@ tags:
   - "#English"
   - Fiction
 title: Project First Born - T3 New Structure
+date: 2024-01-01
 ---
 # T3 - New Structure
 

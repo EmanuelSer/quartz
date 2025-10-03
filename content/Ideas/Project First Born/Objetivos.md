@@ -3,6 +3,7 @@ tags:
   - "#Español"
   - Ideas
 title: Project First Born - Objetivos
+date: 2020-01-01
 ---
 # Objetivos
 

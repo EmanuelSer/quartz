@@ -7,7 +7,7 @@ tags:
 title: Idea - Corto-Realidad
 date: 2018-01-01
 ---
-# Idea | Corto-Realidad
+
 
 Sinopsis.
 

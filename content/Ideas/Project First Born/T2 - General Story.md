@@ -3,6 +3,7 @@ tags:
   - "#English"
   - Fiction
 title: Project First Born - T2 General Story
+date: 2020-09-01
 ---
 # T2 - General Story
 
