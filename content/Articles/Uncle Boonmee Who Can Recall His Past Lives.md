@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Film
+date: 2022-01-01
 ---
 The fact that this film is an **adaptation from a book written by a monk** really ties every aspect of it together.
 

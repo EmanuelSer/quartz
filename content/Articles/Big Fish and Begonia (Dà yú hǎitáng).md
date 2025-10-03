@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Film
+date: 2016-01-01
 ---
 This is a very absorbing narrative with an incredible artwork and likable characters. Immersing its audience in an enticing narrative complemented by spectacular artwork, this film offers a captivating viewing experience. To truly appreciate all of the accomplishments this film achieves, it is essential to address the film's strengths, while briefly acknowledging its weaknesses.
 

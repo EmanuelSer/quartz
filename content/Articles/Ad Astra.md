@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Film
+date: 2020-01-01
 ---
 A film by American film director **James Gray** released in **2019** is an impressive work of sci-fi.
 

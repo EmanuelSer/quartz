@@ -4,6 +4,7 @@ tags:
   - Français
   - Art
   - Literature
+date: 2018-11-23
 ---
 Un trop beau livre, assez court et facile à lire. La façon dans laquelle **Soseki Natsume** écrit m'a fait si bien. C'était rafraîchissant après avoir lu **Camus** pendant si long.
 

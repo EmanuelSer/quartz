@@ -4,6 +4,7 @@ tags:
   - Français
   - Art
   - Literature
+date: 2018-01-01
 ---
 # Bonjour Tristesse
 Recientemente terminé la primera de las muchas lecturas que planeo tener del libro de Françoise Sagan.

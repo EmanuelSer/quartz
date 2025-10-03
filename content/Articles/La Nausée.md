@@ -4,6 +4,7 @@ tags:
   - Français
   - Art
   - Literature
+date: 2019-12-20
 ---
 Le premiere roman par **Jean-Paul Sartre** quand il avait 33 ans et je ne suis pas sur d'avoir tout compris. Le livre explore de nombreux thèmes que je ne suis pas capable de saisir. L'auteur propose quelques idées qui ne sont pas liées à l'idée central ou au moins il nous semble comme ça. La verité peut-être différent si on pense que tout peut-être lié avec **l'existentialisme**.
 

@@ -4,6 +4,7 @@ tags:
   - Fiction
   - Shortstory
 title: Leo The Cloud
+date: 2023-08-22
 ---
 # Illustrated Book Idea
 
@@ -19,16 +20,8 @@ That night he went to bed with one wish in mind, and as he fell asleep he began 
 
 He floated on the breeze, higher and higher, until he was among the stars. He explored the solar system and beyond, learning all there was to know about the universe.
 
-<<<<<<< HEAD
 Eventually he tired of his travels and decided to return home. But when he tried to change back into a human, he found that he couldn't. He didn’t want to be a cloud forever!
 
 But just then his mom walked into the room and woke him up. It was just a dream!
 
 And from that day on he never wished to be a cloud anymore. He was content being a human and living with his family, but he would always remember his time as a cloud and all the adventures he had.
-=======
-Eventually he tired of his travels and decided to return home. But when he tried to change back into a human, he found that he couldn't. He didn't want to be a cloud forever!
-
-But just then his mom walked into the room and woke him up. It was just a dream!
-
-And from that day on he never wished to be a cloud anymore. He was content being a human and living with his family, but he would always remember his time as a cloud and all the adventures he had.
->>>>>>> 6b1d4e14ddac360cb164d8758f2dbf976df16942

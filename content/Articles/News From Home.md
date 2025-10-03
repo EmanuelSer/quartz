@@ -4,6 +4,7 @@ tags:
   - Français
   - Art
   - Film
+date: 2023-01-01
 ---
 Cette movie m'a paru un **incroyable ouvre de cinéma**. Elle nous montre la portée du cinéma comme un **moyen d'expression artistique**.
 

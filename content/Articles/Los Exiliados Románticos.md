@@ -4,6 +4,7 @@ tags:
   - Español
   - Art
   - Film
+date: 2022-01-01
 ---
 La tercera película de **Jonás Trueba**, quien poco a poco asegura un lugar en el inconciente del cine español con películas que parecen compartir un estilo aunque en este punto me resulta complicado definirlo.
 

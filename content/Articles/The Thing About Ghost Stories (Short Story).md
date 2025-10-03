@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Literature
+date: 2019-01-01
 ---
 The first thing I've read by **Naomi Kritzer** and she does not disappoint. This is such an **immersive story** that connects with the reader with interesting storytelling and a **deeply emotional plot**.
 

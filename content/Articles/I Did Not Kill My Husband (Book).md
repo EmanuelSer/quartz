@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Literature
+date: 2020-08-20
 ---
 I was already familiar with the plot of the book beforehand because I saw the **film adaptation** a couple of years earlier. That, however, didn't affect my experience with the story negatively, despite plot twists I might have ruined. But the way the book is written really is what sets it apart. So that even when I knew what was going to happen I was able to enjoy the way the author carries us to that point in the story... In a way exercising this idea of enjoying the **journey rather than the destination**.
 

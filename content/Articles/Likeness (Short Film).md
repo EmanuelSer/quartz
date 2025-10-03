@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Film
+date: 2020-01-01
 ---
 The **directorial debut** of renowned cinematographer **Rodrigo Prieto**.
 

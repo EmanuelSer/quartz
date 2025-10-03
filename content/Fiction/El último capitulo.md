@@ -6,6 +6,7 @@ tags:
 title: El último capitulo
 cssclasses:
   - script-page
+date: 2018-01-01
 ---
 # El último capitulo
 

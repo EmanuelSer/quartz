@@ -4,6 +4,7 @@ tags:
   - Español
   - Art
   - Film
+date: 2818-01-01
 ---
 Dentro del mundo del cine es una película muy sonada y aunque nunca la había visto, siempre había tenido la intensión. Tras haberla visto puedo entender el porqué de su fama y su categoría como cine de culto, más allá de la historia sobre la edición de la obra. Es una increíble película, una verdadera experiencia visual. 
 Me interesa mencionar algunos méritos propios de la cinta y con esto me refiero a aquellos no heredados directamente de la ya excelente novela en la que está basada. Por ello, elementos como la estructura de narrativa, el final, la construcción de personajes queda fuera.

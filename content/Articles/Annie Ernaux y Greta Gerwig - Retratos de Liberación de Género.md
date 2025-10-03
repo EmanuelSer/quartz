@@ -5,6 +5,7 @@ tags:
   - Art
   - Film
   - Literature
+date: 2023-08-01
 ---
 Annie Ernaux en "El lugar", retrata la vida de su padre como un río que corre enardecido, un flujo constante de aspiraciones truncadas, una existencia relegada al trabajo y roles de género específicos de la sociedad francesa de posguerra. Del mismo modo, en el universo de Barbie creado por Greta Gerwig, vemos a Ken, un solitario satélite, orbitando alrededor de Barbie, aguardando pacientemente por su atención, su encanto y la promesa de un significado. 
 

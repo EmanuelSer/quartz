@@ -4,6 +4,7 @@ tags:
   - English
   - Art
   - Literature
+date: 2018-04-05
 ---
 # The Handmaiden's Tale
 

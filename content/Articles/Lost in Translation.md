@@ -4,6 +4,7 @@ tags:
   - Art
   - Film
   - Español
+date: 2019-01-01
 ---
 Lost in transltaion es también una de esas películas que siempre había tenido la intención de ver y que son muy sonadas en el mundo del cine pero jamás me había dado el tiempo de verla. Hoy me alegro de finalmente haberlo hecho porque es realmente una gran película. Los elementos más interesantes son las características del cine contemplativo que mantiene Sofia y cómo mezcla éstos elementos con la estructura comercial que tanto funciona en Hollywood.. 
 La estética visual es uno de ellos. 
