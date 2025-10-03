@@ -1,13 +1,13 @@
 ---
-title: Rêverie
+title: Welcome
 description: A blog or something
 layout: page
 ---
 # Hello! I'm Emmanuel 👋
-Video editor by day; frustrated filmmaker by night. Interested in sharing ideas and the process that gave birth to them -
+Video editor by day; frustrated filmmaker by night. Interested in sharing ideas and the process that gave birth to them.
 
 ## This is my website
-A place to explore and link ideas from any type of media and all forms of cultural expressions. The purpose is to store information to access it easily and to share the closest thing there is to my thought process on some of this topics. The notes we gather here will sometimes turn into Articles which can be discussions on a specific topic, a book, or good old movie reviews.
+A place to explore and dump ideas from any type of media and all forms of cultural expressions. The purpose is to store information to access it easily, to share some of the creative process that some ideas go through, and my thoughts on the pieces of media that impact me the most; that may turn into a discussion about books, or good old movie reviews.
 
 
 ## Bilan Culturel
@@ -38,6 +38,7 @@ A place to explore and link ideas from any type of media and all forms of cultur
 - [[Leurs Histoires]]
 - [[Homemade Croissant Muffin]]
 - [[El Ogro De Los Sueños]]
+- [[Los Días de Escuela]]
 
 ### Scripts
 - [[El último capitulo]]
@@ -45,15 +46,6 @@ A place to explore and link ideas from any type of media and all forms of cultur
 - [[Oh No!]]
 - [[About The Tenth Child]]
 
-
-## General Topics
-- #Art 
-- #Science 
-- #CGI 
-- #Literature 
-- #Film 
-- #Sci-Fi 
-- #Study
 ## Language
 - #Español 
 - #English
