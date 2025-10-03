@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       "_notion-like-tables", // Added
       "Archive",             // Added
     ],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
