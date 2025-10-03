@@ -3,6 +3,7 @@ title: Homemade Croissant Muffin
 tags:
   - English
   - Fiction
+  - Short-Story
 date: 2022-10-10
 ---
 I was walking alone around some city with way too much time on my hands. The city felt big but I kept circling the same places, afraid of venturing too far and being late to an appointment I had.

@@ -3,6 +3,7 @@ title: Leurs Histoires
 tags:
   - Français
   - Fiction
+  - Short-Story
 date: 2022-04-30
 ---
 Il y avait ce jeune couple assez populaire. Presque des personnages publics. Ils étaient en Bac+2 ou, du moins, d'à peu près cet âge. Souvent ils se baladaient ensemble sur le campus et s'embrassaient lorsqu'ils se croisaient fortuitement. Il semblait que c’était une très belle relation, **pleine d'amour** et de soutien des deux côtés.

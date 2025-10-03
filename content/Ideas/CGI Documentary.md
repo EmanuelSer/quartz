@@ -4,6 +4,7 @@ tags:
   - Ideas
   - Fiction
 title: CGI Documentary
+date: 2023-01-01
 ---
 # CGI Documentary
 

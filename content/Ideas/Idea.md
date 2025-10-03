@@ -2,6 +2,7 @@
 tags:
   - "#Español"
 title: Random Idea
+date: 2018-01-01
 ---
 # Idea
 

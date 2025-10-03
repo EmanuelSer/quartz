@@ -4,6 +4,7 @@ tags:
   - Ideas
   - Fiction
 title: Idea - Niño Astronauta
+date: 2024-01-01
 ---
 # Idea | Niño Astronauta
 

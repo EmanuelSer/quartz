@@ -3,6 +3,7 @@ title: An Odd Dream
 tags:
   - English
   - Fiction
+  - Short-Story
 date: 2024-07-28
 ---
 There was once a man of modest means who wihshed for nothing but wealth, as the harshness of scarcity often does. By way of fate's twisted design he made a deal with a mysterious old man, who would provide him with strange contraptions and tools never before seem for him to sell. The ancient brought an array of all sorts of trinkets and the man didn't but advertise them to the townsfolk.

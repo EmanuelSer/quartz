@@ -3,6 +3,7 @@ title: El Ogro De Los Sueños
 tags:
   - Español
   - Fiction
+  - Short-Story
 date: 2025-10-02
 ---
 Al principio no tenía intenciones de quedarse dormido. 

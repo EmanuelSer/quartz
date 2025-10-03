@@ -2,7 +2,7 @@
 tags:
   - "#English"
   - Fiction
-  - Shortstory
+  - Short-Story
 title: Leo The Cloud
 date: 2023-08-22
 ---

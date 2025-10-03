@@ -3,7 +3,10 @@ title: About The Tenth Child
 tags:
   - English
   - Fiction
+  - Script
 date: 2023-08-15
+cssclasses:
+  - script-page
 ---
 ### EXT. TOKYO PARK - NIGHT
 

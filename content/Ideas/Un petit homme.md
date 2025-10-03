@@ -3,6 +3,7 @@ tags:
   - "#Français"
   - Fiction
 title: Idea - Un petit homme
+date: 2024-01-01
 ---
 # Idea | Un petit homme
 

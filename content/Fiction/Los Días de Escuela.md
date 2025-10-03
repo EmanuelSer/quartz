@@ -3,6 +3,7 @@ title: Los Días de Escuela
 tags:
   - Fiction
   - Español
+  - Short-Story
 date: 2025-10-03
 ---
 Cuando era pequeña siempre estaba esperando las vacaciones de verano. Aquellos días donde lo único que importaba era divertirme, donde los días eran cálidos y las noches cortas. Odiaba la escuela, como la mayoría de los niños de mi edad, y anhelaba volver a la playa con mi familia. 

@@ -2,6 +2,7 @@
 tags:
   - "#English"
 title: Idea - Hidden writer
+date: 2023-01-01
 ---
 # Idea | Hidden writer
 
