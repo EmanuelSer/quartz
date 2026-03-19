@@ -40,6 +40,13 @@ A place to explore and dump ideas from any type of media and all forms of cultur
 - [[El Ogro De Los Sueños]]
 - [[Los Días de Escuela]]
 - [[The Reunion]]
+- [[Le Chant de la Marée]]
+- [[Le Chant de la Marée 2]]
+- [[The Secret Agent]]
+- [[House Party]]
+- [[Un monde perdu]]
+- [[QAI]]
+- [[L'ombre d'un homme de lumière]]
 
 ### Scripts
 - [[El último capitulo]]
