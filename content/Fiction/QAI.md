@@ -64,7 +64,8 @@ Mientras contemplaba su creación, se le vino a la mente una idea que podría se
 
 Malcolm observó la pantalla en silencio. Había olvidado por medio segundo que estaba hablando con una red neuronal artificial y cuando el hecho resonó en su mente, le pareció extraño que usara la palabra "personal". No obstante, se hacía tarde y debía regresar a su casa antes del último autobús de las 10 p. m. Desconectó su teclado, guardó su computadora y se apresuró a salir.
 
-  
+
+
 
 La mañana siguiente lo tomó por sorpresa. Malcolm no era el encargado del equipo de aprendizaje, por lo que había esperado alguna reacción en su contra. Estaba preparado para disculparse y explicar el razonamiento que había usado para enseñar tan extraoficialmente a R05. Aunque no tenía una coartada sólida, lo que hizo bien pudo haber sido puesto a votación del consejo sobre los métodos de nutrición de las redes neuronales y eventualmente aceptado. Pero el tiempo de consideración del consejo era muy extenso y él no podía darse ese lujo con los patrocinadores pisándole los talones.
 
