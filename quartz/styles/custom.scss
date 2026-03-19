@@ -50,3 +50,21 @@
     text-transform: uppercase;
   }
 }
+
+/* Poetry formatting */
+.poem {
+  white-space: pre-wrap;  
+  line-height: 1.8;
+  font-style: normal;
+  margin-top: 1rem;
+}
+
+/*Slightly indent lines for poetic feel */
+.poem p {
+  margin: 0.5em 0;
+}
+
+/* Stanza spacing */
+.poem p + p {
+  margin-top: 1em;
+}
