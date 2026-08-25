@@ -7,7 +7,7 @@ tags:
 date: 2024-12-10
 ---
 Elle portait un cardigan jaune pastel, une chemise blanche et une jupe noire à fleurs.
-Nous nous sommes rencontrés dans une quincaillerie où elle travaillait à temps partiel. Je l’ai reconnue immédiatement. Tout à coup je suis  retombé amoureux, et plus rien n’avait d’importance. 
+Nous nous sommes rencontrés dans une quincaillerie où elle travaillait à temps partiel. Je l’ai reconnue immédiatement. Tout à coup je suis retombé amoureux, et plus rien n’avait d’importance. 
 Il n'y avait que nous, ce moment, et toutes nos souvenirs, même lointains, qui nous liaient.
 
 Elle était en train de déménager chez son copain. J’ai essayé de la convaincre de le quitter et de fuir avec moi à la place.

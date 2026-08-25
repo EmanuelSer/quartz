@@ -4,63 +4,34 @@ description: A blog or something
 layout: page
 ---
 # Hello! I'm Emmanuel 👋
-Video editor by day; frustrated filmmaker by night. Interested in sharing ideas and the process that gave birth to them.
+I work as a video editor and I studied filmmaking and so, I've always been interested in storytelling, but also in the impermanence of things, and the traces that stay with us after they are gone. Like the dream that vanishes the moment you wake up, the film whose final image stays in your mind long after it fades to black, the characters who keep asking questions even after you've closed the book.
 
-## This is my website
-A place to explore and dump ideas from any type of media and all forms of cultural expressions. The purpose is to store information to access it easily, to share some of the creative process that some ideas go through, and my thoughts on the pieces of media that impact me the most; that may turn into a discussion about books, or good old movie reviews.
+This is where I collect those traces as best I can.
 
+## Recently added
 
-## Bilan Culturel
-### Books
-- [[Bonjour Tristesse - Libro]]
-- [[Death's End]]
-- [[The Handmaiden's Tale - Book]]
-- [[Schoolgirl]]
-- [[Kusamakura]]
-- [[La Nausée]]
-- [[I Did Not Kill My Husband (Book)]]
-
-### Movies
-- [[I Don't Feel at Home in This World Anymore]]
-- [[Lost in Translation]]
-- [[Sobre Blade Runner]]
-- [[Akira]]
-- [[Ad Astra]]
-- [[Los Exiliados Románticos]]
-- [[News From Home]]
+## Marginalia
+### Personal essays and cultural articles.
+- [[Annie Ernaux y Greta Gerwig - Retratos de Liberación de Género]]
 - [[Uncle Boonmee Who Can Recall His Past Lives]]
+- [[Death's End]]
+- Read more: #Literature #Film 
 
 ## Fiction
-
-### Short Stories
-- [[Leo The Cloud]]
-- [[An Odd Dream]]
-- [[Leurs Histoires]]
-- [[Homemade Croissant Muffin]]
+### Short stories and scripts.
 - [[El Ogro De Los Sueños]]
-- [[Los Días de Escuela]]
-- [[The Reunion]]
-- [[Le Chant de la Marée]]
-- [[Le Chant de la Marée 2]]
-- [[The Secret Agent]]
-- [[House Party]]
-- [[Un monde perdu]]
-- [[QAI]]
-- [[L'ombre d'un homme de lumière]]
-
-### Scripts
-- [[El último capitulo]]
-- [[Lovecraft Memory - Adaptation]]
-- [[Oh No!]]
+- [[Leurs Histoires]]
 - [[About The Tenth Child]]
+- Browse by type: #Short-Story #Script #Poem 
+- Browse all: #Fiction 
 
-## Language
+## Browse by language
 - #Español 
 - #English
 - #Français
 
 
 
-## Additional Notebooks
+### Notebooks
 - [[Project First Born]]
 - #Ideas 
