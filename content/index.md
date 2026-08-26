@@ -4,7 +4,7 @@ description: A blog or something
 layout: page
 ---
 # Hello! I'm Emmanuel 👋
-I work as a video editor and I studied filmmaking and so, I've always been interested in storytelling, but also in the impermanence of things, and the traces that stay with us after they are gone. Like the dream that vanishes the moment you wake up, the film whose final image stays in your mind long after it fades to black, the characters who keep asking questions even after you've closed the book.
+I was formed as a filmmaking and I work as a video editor. I've always been interested in storytelling, and in the impermanence and brevity of things. I often think of the traces that stay with us after things are gone. Like the dream that vanishes the moment you wake up, or the film whose final image stays in your mind long after it fades to black, or even the characters who keep asking questions in your mind after you've closed a book.
 
 This is where I collect those traces as best I can.
 

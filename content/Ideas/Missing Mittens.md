@@ -1,8 +1,7 @@
 ---
 tags:
   - English
-  - Fiction
-  - Script
+  - Ideas
 title: Missing Mittens
 date: 2024-02-28
 ---

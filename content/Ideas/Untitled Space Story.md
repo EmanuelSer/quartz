@@ -1,7 +1,7 @@
 ---
 tags:
   - Español
-  - Fiction
+  - Ideas
 title: Untitled Space Story
 date: 2025-08-08
 ---

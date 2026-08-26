@@ -1,7 +1,6 @@
 ---
 title: Puis Il  Y A Les Faux Souvenirs
 tags:
-  - Fiction
   - Ideas
   - Français
 date: 2024-12-10
