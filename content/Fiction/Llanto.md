@@ -1,9 +1,9 @@
 ---
+title: Llanto
 tags:
   - Español
   - Fiction
-title: Llanto
-date: 2016-08-10
+date: 2018-08-10
 ---
 Estuve varios días encerrado en mi cuarto sin intención alguna de salir siquiera a ver el sol. Las persianas, ahora cubiertas de polvo, parecían una continuación de las paredes grises. Era tarde, aunque no podría estar seguro de la hora exacta desde que había desechado todos los relojes, y desconectado el teléfono. Las noches siempre eran más difíciles de tolerar que los días. En especial ahora que el insomnio me acechaba. 
 

@@ -2,6 +2,7 @@
 tags:
   - Español
   - Ideas
+  - Fiction
 title: The Hidden Writer
 date: 2022-03-15
 ---

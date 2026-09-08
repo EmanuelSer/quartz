@@ -2,6 +2,7 @@
 tags:
   - Español
   - Script
+  - Fiction
 title: Misfits (WIP)
 cssclasses:
   - script-page

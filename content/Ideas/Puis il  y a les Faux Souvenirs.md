@@ -3,6 +3,7 @@ title: Puis Il  Y A Les Faux Souvenirs
 tags:
   - Ideas
   - Français
+  - Fiction
 date: 2024-12-10
 ---
 Elle portait un cardigan jaune pastel, une chemise blanche et une jupe noire à fleurs.
